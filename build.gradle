@@ -28,7 +28,7 @@ test {
 }
 
 dependencies {
-    compile 'com.codeborne:selenide:5.11.1'
+    compile 'com.codeborne:selenide:5.17.3'
     compile  'io.qameta.allure:allure-selenide:2.13.7'
 
 
